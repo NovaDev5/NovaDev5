@@ -1,4 +1,4 @@
-# 👋 Hi, I'm NOVA DEV
+# 👋 Hi, I'm ABUGU COLLINS
 
 🚀 **Full-Stack Web3 Developer | Multi-Chain Engineer | dApp Architect**
 
