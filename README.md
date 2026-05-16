@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ABUGU COLLINS
 
-🚀 **Full-Stack Web3 Developer | Multi-Chain Engineer | dApp Architect**
+🚀 **Full-Stack Software Engineer | Multi-Chain Engineer | dApp Architect**
 
 I build secure, scalable, and high-performance blockchain applications across Solana, EVM networks, and Tron. My focus is on creating seamless user experiences powered by robust smart contract interactions and optimized backend systems.
 
@@ -8,7 +8,7 @@ I build secure, scalable, and high-performance blockchain applications across So
 
 ## 🧠 About Me
 
-I'm a Web3 developer specializing in multi-chain development, modern frontend engineering, and blockchain automation systems. I design and ship decentralized applications that are production-ready, performance-optimized, and secure.
+I'm a software engineer specializing in multi-chain development, modern frontend engineering, and blockchain automation systems. I design and ship both web2 native and decentralized applications that are production-ready, performance-optimized, and secure.
 
 ---
 
@@ -17,6 +17,8 @@ I'm a Web3 developer specializing in multi-chain development, modern frontend en
 ### ⚛️ Frontend & Application Development
 
 * React
+* Next JS
+* React Native
 * Vite
 * TypeScript
 * JavaScript (ES6+)
